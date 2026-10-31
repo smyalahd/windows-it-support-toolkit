@@ -1,0 +1,6 @@
+# Ignore generated diagnostic reports
+reports/*.json
+
+# Ignore temporary files
+*.tmp
+*.log

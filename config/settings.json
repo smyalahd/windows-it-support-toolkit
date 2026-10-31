@@ -1,0 +1,6 @@
+{
+    "TargetHost": "example.com",
+    "DnsDomain": "example.com",
+    "LowDiskSpaceThreshold": 15,
+    "ReportFileName": "diagnostic-report.json"
+}
