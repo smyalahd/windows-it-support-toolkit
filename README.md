@@ -33,3 +33,26 @@ windows-it-support-toolkit/
 │   └── test-plan.md
 ├── evidence/
 └── toolkit.ps1
+
+## Screenshots
+
+### Main Menu
+![Main Menu](evidence/main-menu.png)
+
+### System Information
+![System Information](evidence/system-information.png)
+
+### Network Information
+![Network Information](evidence/network-information.png)
+
+### Connectivity Test
+![Connectivity Test](evidence/connectivity-test.png)
+
+### DNS Resolution Test
+![DNS Resolution Test](evidence/dns-resolution-test.png)
+
+### Disk Information
+![Disk Information](evidence/disk-information.png)
+
+### JSON Report Generation
+![JSON Report Generation](evidence/json-report-generation.png)
