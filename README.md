@@ -32,7 +32,17 @@ windows-it-support-toolkit/
 ├── tests/
 │   └── test-plan.md
 ├── evidence/
+│   ├── main-menu.png
+│   ├── system-information.png
+│   ├── network-information.png
+│   ├── connectivity-test.png
+│   ├── dns-resolution-test.png
+│   ├── disk-information.png
+│   └── json-report-generation.png
+├── .gitignore
+├── README.md
 └── toolkit.ps1
+```
 
 ## Screenshots
 
@@ -56,3 +66,11 @@ windows-it-support-toolkit/
 
 ### JSON Report Generation
 ![JSON Report Generation](evidence/json-report-generation.png)
+
+## Safety
+
+The toolkit performs read-only system and network diagnostics. It does not modify system settings or perform network scans.
+
+## Purpose
+
+This project demonstrates practical skills in Windows administration, IT troubleshooting, PowerShell scripting, configuration management, error handling, and technical documentation.
