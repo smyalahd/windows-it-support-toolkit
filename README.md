@@ -43,7 +43,6 @@ windows-it-support-toolkit/
 ├── README.md
 └── toolkit.ps1
 ```
-
 ## Screenshots
 
 ### Main Menu
@@ -74,3 +73,10 @@ The toolkit performs read-only system and network diagnostics. It does not modif
 ## Purpose
 
 This project demonstrates practical skills in Windows administration, IT troubleshooting, PowerShell scripting, configuration management, error handling, and technical documentation.
+
+## Documentation
+
+Detailed project documentation is available in the `docs` directory:
+
+- [Project Overview](docs/PROJECT_OVERVIEW.md) – Project objectives, features, technologies, and architecture.
+- [Technical Documentation](docs/TECHNICAL_DOCUMENTATION.md) – Technical implementation, PowerShell functions, configuration management, error handling, and testing.
